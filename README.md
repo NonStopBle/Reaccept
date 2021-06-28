@@ -1,2 +1,2 @@
 # Reaccept
-Auto accept compettive when you afk in csgo 
+Auto accept competitive when you afk in csgo 
