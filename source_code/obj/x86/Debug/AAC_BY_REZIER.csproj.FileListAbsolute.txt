@@ -1,0 +1,20 @@
+E:\Programing\Project X\Machine Learning\Login Button Click for Puzzle Pirates\obj\x86\Debug\AAC_BY_REZIER.csprojAssemblyReference.cache
+E:\Programing\Project X\Machine Learning\Login Button Click for Puzzle Pirates\obj\x86\Debug\AutoAccepted.frmMain.resources
+E:\Programing\Project X\Machine Learning\Login Button Click for Puzzle Pirates\obj\x86\Debug\AAC_BY_REZIER.csproj.GenerateResource.cache
+E:\Programing\Project X\Machine Learning\Login Button Click for Puzzle Pirates\obj\x86\Debug\AAC_BY_REZIER.csproj.CoreCompileInputs.cache
+E:\Programing\Project X\Machine Learning\Login Button Click for Puzzle Pirates\bin\Debug\AAC_BY_REZIER.exe.config
+E:\Programing\Project X\Machine Learning\Login Button Click for Puzzle Pirates\bin\Debug\AAC_BY_REZIER.exe
+E:\Programing\Project X\Machine Learning\Login Button Click for Puzzle Pirates\bin\Debug\AAC_BY_REZIER.pdb
+E:\Programing\Project X\Machine Learning\Login Button Click for Puzzle Pirates\obj\x86\Debug\Auto_Accepted.Properties.Resources.resources
+E:\Programing\Project X\Machine Learning\Login Button Click for Puzzle Pirates\obj\x86\Debug\AAC_BY_REZIER.exe
+E:\Programing\Project X\Machine Learning\Login Button Click for Puzzle Pirates\obj\x86\Debug\AAC_BY_REZIER.pdb
+E:\Programing\Project X\Machine Learning\AAC_BY_REZIER\bin\Debug\AAC_BY_REZIER.exe.config
+E:\Programing\Project X\Machine Learning\AAC_BY_REZIER\bin\Debug\AAC_BY_REZIER.exe
+E:\Programing\Project X\Machine Learning\AAC_BY_REZIER\bin\Debug\AAC_BY_REZIER.pdb
+E:\Programing\Project X\Machine Learning\AAC_BY_REZIER\obj\x86\Debug\AAC_BY_REZIER.csprojAssemblyReference.cache
+E:\Programing\Project X\Machine Learning\AAC_BY_REZIER\obj\x86\Debug\AutoAccepted.frmMain.resources
+E:\Programing\Project X\Machine Learning\AAC_BY_REZIER\obj\x86\Debug\Auto_Accepted.Properties.Resources.resources
+E:\Programing\Project X\Machine Learning\AAC_BY_REZIER\obj\x86\Debug\AAC_BY_REZIER.csproj.GenerateResource.cache
+E:\Programing\Project X\Machine Learning\AAC_BY_REZIER\obj\x86\Debug\AAC_BY_REZIER.csproj.CoreCompileInputs.cache
+E:\Programing\Project X\Machine Learning\AAC_BY_REZIER\obj\x86\Debug\AAC_BY_REZIER.exe
+E:\Programing\Project X\Machine Learning\AAC_BY_REZIER\obj\x86\Debug\AAC_BY_REZIER.pdb
